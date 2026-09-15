@@ -1,0 +1,14 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+
+# Local agent configuration
+.agents/
+.codex/
+
+# Operating system files
+.DS_Store
+Thumbs.db
